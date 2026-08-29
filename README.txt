@@ -46,6 +46,6 @@ Emergencies: call 000.
 
 Open locally
 ------------
-site/index.html — or any local static server from this folder.
+index.html — or any local static server from this folder.
 
 Built 29 August 2026. Preview only.
