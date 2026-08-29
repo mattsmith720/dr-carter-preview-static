@@ -8,7 +8,7 @@ Identity (confirmed for this preview)
 -------------------------------------
 - Name as used here: Dr Murray Carter
 - Profession: registered medical practitioner
-- Place: Redcliffe / Greater Brisbane, Queensland
+- Place: Brisbane, Queensland (rooms unconfirmed; do not publish home suburb)
 - This is a private practice website
 
 Do not invent, and do not add later without the doctor (or the Ahpra register)
