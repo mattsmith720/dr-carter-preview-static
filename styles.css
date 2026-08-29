@@ -1,4 +1,4 @@
-/* Dr Murray Carter — private practice preview
+/* Dr Murray Carter, private practice preview
    Mobile-first. 390px is the primary canvas. */
 
 @font-face {
@@ -100,7 +100,7 @@ h3 { font-size: 1.28rem; }
 }
 .skip:focus { top: 0.6rem; }
 
-/* ——— Header ——— */
+/* Header */
 .site-header {
   position: sticky;
   top: 0;
@@ -337,7 +337,7 @@ body.nav-open .site-nav {
 }
 .nav-foot a { color: var(--gold); font-family: var(--sans); font-size: 0.92rem; border: 0; padding: 0; display: inline; }
 
-/* ——— Layout ——— */
+/* Layout */
 .wrap {
   width: min(100% - (var(--pad) * 2), var(--max));
   margin-inline: auto;
@@ -381,7 +381,7 @@ main { padding-bottom: 3.5rem; }
 .prose li { margin: 0.35rem 0; }
 .prose li::marker { color: var(--gold); }
 
-/* ——— Home ——— */
+/* Home */
 .hero {
   padding: 2.85rem 0 2.6rem;
 }
@@ -487,7 +487,7 @@ main { padding-bottom: 3.5rem; }
 .split h3 { margin-bottom: 0.45rem; }
 .split p { color: var(--muted); margin-bottom: 1.1rem; }
 
-/* ——— Cards ——— */
+/* Cards */
 .cards {
   display: grid;
   gap: 0.9rem;
@@ -559,7 +559,7 @@ main { padding-bottom: 3.5rem; }
   margin-top: 0.55rem;
 }
 
-/* ——— Forms ——— */
+/* Forms */
 form {
   display: grid;
   gap: 1.05rem;
@@ -663,7 +663,7 @@ select:focus-visible {
 .form-actions { margin-top: 0.4rem; }
 .req { color: var(--teal); }
 
-/* ——— Footer ——— */
+/* Footer */
 .site-footer {
   background: var(--navy);
   color: rgba(244, 240, 232, 0.82);
@@ -727,7 +727,7 @@ select:focus-visible {
   color: rgba(244, 240, 232, 0.55);
 }
 
-/* ——— Utilities ——— */
+/* Utilities */
 .muted { color: var(--muted); }
 .gold { color: var(--gold); }
 .mt-0 { margin-top: 0; }
